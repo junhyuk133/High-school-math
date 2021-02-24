@@ -1,8 +1,0 @@
-#먼저 순열은 순서가 중요하고 중복은X 이럴때 itertools.permutations 을 이용한다
-#permutation는 순열이라고 한다.
-
-#조합은 집합에서 서로 다른 n개의 원소 중에서 순서에 상관없이 r개를 선택하는 것이다.
-#combination은 조합이라 한다.
-
-
- 
